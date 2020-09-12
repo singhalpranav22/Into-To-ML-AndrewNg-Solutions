@@ -1,0 +1,31 @@
+Dear Students,
+
+Instructions Regarding quiz:
+
+1. The quiz will be held from 5:00 PM to 5:30 PM today.
+2. It contains 10 multiple choice questions. More than one option could be correct in a particular question.
+3. Each student will get a different question set.
+4. If you click on a correct option you'll get +1 mark, and if you click on a wrong option you'll get -1 mark.
+5. Click on an option only if you're sure that it is correct. Otherwise, you may lose marks.
+6. You have to submit each question in a stipulated time. Marks may be deducted for late submission of a question. 
+7. If you want to move to the next question without answering it, click on submit without choosing any option. However, you cannot go back to that question.
+8. All notations are standard and same as used in lectures.
+
+Instructions Regarding Portal:
+
+1. Login to https://project.iiita.ac.in/evaluation/login1.html
+using your LDAP username and password. 
+2. After clicking on the above link, read the instructions displayed there very carefully and follow them.
+3. However, questions will appear only at 5:00 PM.
+4. After submitting the last question, take a screenshot of the last page displayed.
+5. If you face any technical problem, please contact Dr. Venkateshan at venkat@iiita.ac.in or 9695895464.
+
+Best wishes,
+Abdullah
+
+
+--
+Abdullah Bin Abu Baker
+Assistant Professor
+Department of Applied Science
+IIIT Allahabad
